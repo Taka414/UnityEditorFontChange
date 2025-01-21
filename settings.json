@@ -1,0 +1,15 @@
+{
+    "editor": {
+        "editorInstallBasePath": "C:\\Program Files\\Unity\\Hub\\Editor",
+        "relativePath": "Editor\\Data\\Resources\\fontsettings.txt"
+        //"editorInstallBasePath": "C:\\temp\\test",
+        //"relativePath": "fontsettings.txt"
+    },
+    "fonts": [
+        "MS PGothic",
+        "Meiryo UI",
+        "Meiryo",
+        "MeiryoKe_PGothic",
+        "MeiryoKe_UIGothic"
+    ]
+}

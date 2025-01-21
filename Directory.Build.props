@@ -1,0 +1,9 @@
+﻿<Project>
+ <PropertyGroup>
+    <!-- 決定論的ビルドの有効化 -->
+    <Deterministic>true</Deterministic>
+    <!-- 埋め込みビルドパスの置き替え(どこでビルドしてもアセンブリが変わらないようにする指定) -->
+    <RepoRoot>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\'))</RepoRoot>
+    <PathMap>$(RepoRoot)=.</PathMap>
+ </PropertyGroup>
+</Project> 

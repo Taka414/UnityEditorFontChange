@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEditorFontChange", "UnityEditorFontChange.csproj", "{8B1CD7C5-CD79-4CDB-94B2-279183AF6814}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B1CD7C5-CD79-4CDB-94B2-279183AF6814}.Debug|x64.ActiveCfg = Debug|x64
+		{8B1CD7C5-CD79-4CDB-94B2-279183AF6814}.Debug|x64.Build.0 = Debug|x64
+		{8B1CD7C5-CD79-4CDB-94B2-279183AF6814}.Release|x64.ActiveCfg = Release|x64
+		{8B1CD7C5-CD79-4CDB-94B2-279183AF6814}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
